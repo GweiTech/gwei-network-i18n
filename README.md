@@ -1,1 +1,1 @@
-# gwei-network-multi-language-ui-project
+# gwei-network-i18n
