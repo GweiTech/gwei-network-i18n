@@ -181,7 +181,7 @@ const ko_KR = {
     'creator.editWhitelist.title': `화이트리스트 편집하기`,
     'creator.editWhitelist.errInput.list': `[ {part} ]은 유효한 주소가 아닙니다`,
     'creator.editWhitelist.errInput.noChange': `화이트리스트에 아무런 변경도 하지 않았습니다`,
-    'creator.editWhitelist.instructions': `화이트리스트 등록된 이더리움 주소 리스트를 완료하십시오`,
+    'creator.editWhitelist.instructions': `화이트리스트 등록된 이더리움 주소 리스트를 완료하십시오.`,
     'creator.editWhitelist.input.instructions': `공백, 쉼표 또는 새줄로 구분하십시오.`,
     'creator.editWhitelist.btn.submit': `화이트리스트 편집`,
 

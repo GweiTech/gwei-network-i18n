@@ -181,7 +181,7 @@ const en_US = {
     'creator.editWhitelist.title': `Edit Whitelsit`,
     'creator.editWhitelist.errInput.list': `[ {part} ] is not a valid address`,
     'creator.editWhitelist.errInput.noChange': `You have made no changes to the whitelist`,
-    'creator.editWhitelist.instructions': `Complete List Of Whitelisted Ethereum Addresses`,
+    'creator.editWhitelist.instructions': `Complete List Of Whitelisted Ethereum Addresses.`,
     'creator.editWhitelist.input.instructions': `Separate with a sapce, a comma or a new line.`,
     'creator.editWhitelist.btn.submit': `Edit Whitelist`,
 
