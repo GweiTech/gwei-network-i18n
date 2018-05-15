@@ -18,11 +18,11 @@ const en_US = {
 
     // Disclaimer
     'disclaimer.title': `Disclaimer Page`,
-    'disclaimer.txt1': `We are not responsible for any loss:`,
-    'disclaimer.txt2': `GweiNetwork, and some of the underlying JavaScript libraries and Ethereum tools we use are under active development. While we have thoroughly tested the website and smart-contract, there is always the possibility something unexpected happens resulting in losses of ether or/and tokens.`,
-    'disclaimer.txt3': `Any ether (ETH) you transfer to the pool will be managed by the creator of the pool. Our smart contract cannot fully prevent the pool creator from mismanaging the pool's funds. You should only participate in pools managed by individuals you trust.`,
-    'disclaimer.txt4': `Please do not contribute more than you are willing to lose and please be careful.`,
-    'disclaimer.txt5': `We encourage you to assess its security before using GweiNetwork services.`,
+    'disclaimer.txt1': `We are not responsible for any loss.`,
+    'disclaimer.txt2': `We are continuously improving and increasing the functions of GweNetwork and focus on three aspects including user experience, prevention against fraud, and compliance. We have tested the smart contract comprehensively to guarantee its safety. However, the loss of Token may be caused by unpredictable incidents, such as transfer to a wrong contract. So please be cautious.`,
+    'disclaimer.txt3': `Any money you transfer to the joint foundation contract will be managed by the contract administrator. Under the joint foundation smart contract, improper management of the contract administrator to the money cannot be avoided completely. For participation in the contribution to the joint foundation contract, please make sure that you choose a trusted person to hold the position of administrator.`,
+    'disclaimer.txt4': `You are requested to participate within your capacity.`,
+    'disclaimer.txt5': `We encourage you to join our community to put forward questions and evaluate safety prior to using GweiNetwork service.`,
 
     // Login
     'login.title': `Enter Your Wallet Address`,
