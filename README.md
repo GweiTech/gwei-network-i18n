@@ -7,6 +7,7 @@ Language | Code | Done | File
 English | en_US | ✔ | locale/en.js
 简体中文 | zh_CN | ✔ | locale/zh.js
 한국어 | ko_KR | ✔ | locale/ko.js
+繁體中文| zh_TW | ✔ | locale/zh-tw.js
 
 ### How to translate:
 
