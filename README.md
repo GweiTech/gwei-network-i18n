@@ -9,6 +9,8 @@ English | en_US | ✔ | locale/en.js
 한국어 | ko_KR | ✔ | locale/ko.js
 繁體中文| zh_TW | ✔ | locale/zh-tw.js
 русский| ru-RU  |  | locale/ru-RU.js
+日本語|  ja-JP  |  | locale/ja-JP.js
+
 ### How to translate:
 
 The language configuration file is as follows, taking "en.js" as an example.  
