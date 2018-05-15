@@ -17,12 +17,12 @@ const zh_CN = {
     'home.create': `创建共同基金合约`,
 
     // Disclaimer
-    'disclaimer.title': `免责声明`,
+    'disclaimer.title': `声明`,
     'disclaimer.txt1': `我们不对任何损失负责: `,
-    'disclaimer.txt2': `我们正在持续完善和增加 GweNetwork 功能，我们使用的一些底层 JavaScript 库和以太坊工具也在不断开发和完善中。虽然我们已经全面的测试了网站和智能合约，但总有可能发生意外导致 Token 的损失。`,
-    'disclaimer.txt3': `任何您转移到共同基金合约中的以太币都将由合约管理员进行管理。共同基金智能合约不能完全避免合约管理员对资金的管理不善。参与贡献共同基金合约时请务必确认管理员是您信任的人。`,
-    'disclaimer.txt4': `请在您的资金损失承受范围内进行贡献`,
-    'disclaimer.txt5': `我们鼓励您在使用 GweiNetwork 服务前评估安全性。`,
+    'disclaimer.txt2': `我们正在持续完善和增加 GweNetwork 功能，我们初步聚焦用户体验，防范诈骗和合规化三个方面。我们已经全面测试了智能合约并确保安全，但总有不可预知的意外导致 Token 的损失，例如您转错地址，请谨慎操作。。`,
+    'disclaimer.txt3': `资金都将由合约管理员进行管理。共同基金智能合约不能完全避免合约管理员对资金的管理不善。参与贡献共同基金合约时请务必确认管理员是您信任的人。`,
+    'disclaimer.txt4': `请在您力所能及的范围内参与`,
+    'disclaimer.txt5': `我们鼓励您在使用 GweiNetwork 服务前加入我们的社区提问并评估安全。`,
 
     // Login
     'login.title': `输入您的钱包地址`,
